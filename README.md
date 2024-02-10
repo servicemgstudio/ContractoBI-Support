@@ -10,15 +10,15 @@ This repository represents a support channel to the iOS, iPadOS and macOS Contra
 
 
 #### Website
-[App Website (English)](https://www.google.com)
+[App Website (English)](https://contractobi.z6.web.core.windows.net)
 
 #### Guides
-[App Guides (English)](https://www.google.com)
+[App Guides (English)](https://contractobi.z6.web.core.windows.net/guide-EN.html)
 
 #### Tutorials
-[App Tutorials (English)](https://www.google.com)
+[App Tutorials (English)](https://docucontractobi.z6.web.core.windows.net/tutorials/meet-contractobi-on-mac)
 
 #### Contact forms
-[Contact Form English](https://www.google.com)
+[Contact Form (English)](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQPhImxUQkExTlQyVVlaTVpQOThSUDhZMzMyUUtERC4u)
 
-[Contact Form German](https://www.google.com)
+[Kontaktformular (Deutsch)](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQPhImxUQVA5M0dBRjU4UkJZS1c3WjBDVk1OT0s5MC4u)
